@@ -13,8 +13,6 @@ Tecnologias:
 
 This project was the realization of a FrontEnd application with the aim of being the FrontEnd of the backend API created previously. It is an application for creating notes to save links, making comments and adding tags for greater organization. Vite was used to run the project, using React as the main technology, following clean code ideas by creating isolated components to be used if these components were repeated in more than one page, creating route logics and using styled-components to style the pages by coding CSS in a JavaScript file for greater application performance.
 
-Translated with DeepL.com (free version)
-
 Technologies:
 - JavaScript 
 - React
